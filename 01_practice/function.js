@@ -1,5 +1,5 @@
-function addTwoNumbers(num1,num2){
-    return num1+num2
+function userName(username){
+
+    return `${username} just logged in, Thank you`
 }
 
-console.log("The Result is ",addTwoNumbers(3,5))
